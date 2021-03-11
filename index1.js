@@ -1,2 +1,2 @@
-console.log(小小小);
+console.log(大大大);
 
